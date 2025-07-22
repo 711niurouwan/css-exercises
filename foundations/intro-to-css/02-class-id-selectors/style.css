@@ -1,0 +1,18 @@
+.paragraph {
+    background-color: lightcoral;
+    font-family:'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+.cooler {
+    background-color: lightcoral;
+    font-family:'Verdana', 'DejaVu Sans', 'sans-serif';
+    font-size: 24px;
+}
+#second {
+    color: blue;
+    font-size: 36px;
+}
+#fourth {
+    background-color: rgb(5, 255, 126);
+    font-size: 24px;
+    font-weight: bold;
+}
